@@ -1,6 +1,6 @@
 # @NgModule
-  ## 创建
-  `ng g m my-module`
+## 创建
+`ng g m my-module`
 ## option
 ### declarations
 声明component、directive、pipes
@@ -27,13 +27,13 @@
 ## 创建
 `ng g s my-service`
 ## 用法
+集中管理module内部的components之间的行为
 
 ---
 
-# @Input
+# @Input/@Output
+组件之间传递数据
 
----
 
-# @Output
 
 
