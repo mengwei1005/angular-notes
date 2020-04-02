@@ -1,6 +1,6 @@
 # @NgModule
-## 创建
-`ng g m my-module`
+  ## 创建
+  `ng g m my-module`
 ## option
 ### declarations
 声明component、directive、pipes
